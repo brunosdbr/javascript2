@@ -1,2 +1,2 @@
 # javascript2
- aulasdejs
+ revisão de javascript
